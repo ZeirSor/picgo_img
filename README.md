@@ -1,4 +1,4 @@
-# Graphic bed by picgo
+# Picture bed by picgo
 - personal picture bed by Picgo, used to save images.
 - Reference
   - [GitHub+picGo+CDN搭建免费图床 - 知乎](https://zhuanlan.zhihu.com/p/350598351)
